@@ -1,0 +1,13 @@
+# Trae IDE skills
+.agents/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
